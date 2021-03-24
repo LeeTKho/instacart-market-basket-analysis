@@ -1,7 +1,7 @@
 market-basket-analysis
 ==============================
 
-A short description of the project.
+Market basket analysis and recommender system of Instacart grocery data.
 
 Project Organization
 ------------
